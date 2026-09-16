@@ -1,0 +1,1 @@
+event_id,timestamp,session_id,page_or_step,latency_ms,error_flag,error_code,converted,abandoned,revenue,latency_band,converted_binary,abandoned_binary
